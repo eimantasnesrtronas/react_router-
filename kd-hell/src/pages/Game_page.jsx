@@ -7,6 +7,8 @@ function Game_Page(){
         <Navbar/>
         <Card/>
 
+        
+        
 
         </>
     )

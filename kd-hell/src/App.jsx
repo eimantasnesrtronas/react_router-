@@ -3,6 +3,7 @@ import './App.css'
 import { Link } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Card from './components/card'
+import Hero from './components/Hero'
 
 
 function App() {
@@ -10,11 +11,11 @@ function App() {
   return (
     <>
     <Navbar/>
-    
+    <Hero/>
       
         
       
-
+    
     </>
   )
 }
